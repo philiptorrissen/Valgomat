@@ -1,0 +1,195 @@
+[
+   {
+     "id": "1",
+     "text": "Oslo bør beholde dagens inntak til videregående skoler basert på best karakterer",
+     "options": [
+       {
+         "text": "Enig",
+         "value": 2
+       },
+       {
+         "text": "Litt enig",
+         "value": 1
+       },
+       {
+         "text": "Litt uenig",
+         "value": -1
+       },
+       {
+         "text": "Uenig",
+         "value": -2
+       }
+     ],
+     "opinions": [
+       {
+         "party": "Frp",
+         "score": 2
+       },
+       {
+         "party": "Arbeiderpartiet",
+         "score": -2
+       }
+     ]
+   },
+   {
+     "id": "2",
+     "text": "Elevene må få gratis mat på skolen",
+     "options": [
+       {
+         "text": "Enig",
+         "value": 2
+       },
+       {
+         "text": "Litt enig",
+         "value": 1
+       },
+       {
+         "text": "Litt uenig",
+         "value": -1
+       },
+       {
+         "text": "Uenig",
+         "value": -2
+       }
+     ],
+     "opinions": [
+       {
+         "party": "Frp",
+         "score": -2
+       },
+       {
+         "party": "Arbeiderpartiet",
+         "score": 2
+       }
+     ]
+   },
+   {
+     "id": "3",
+     "text": "Grunnskolen i Oslo bør i størst mulig grad være leksefri",
+     "options": [
+       {
+         "text": "Enig",
+         "value": 2
+       },
+       {
+         "text": "Litt enig",
+         "value": 1
+       },
+       {
+         "text": "Litt uenig",
+         "value": -1
+       },
+       {
+         "text": "Uenig",
+         "value": -2
+       }
+     ],
+     "opinions": [
+       {
+         "party": "Frp",
+         "score": -2
+       },
+       {
+         "party": "Arbeiderpartiet",
+         "score": 2
+       }
+     ]
+   },
+   {
+     "id": "4",
+     "text": "Oslo bør innføre lokal rusreform",
+     "options": [
+       {
+         "text": "Enig",
+         "value": 2
+       },
+       {
+         "text": "Litt enig",
+         "value": 1
+       },
+       {
+         "text": "Litt uenig",
+         "value": -1
+       },
+       {
+         "text": "Uenig",
+         "value": -2
+       }
+     ],
+     "opinions": [
+       {
+         "party": "Frp",
+         "score": -2
+       },
+       {
+         "party": "Arbeiderpartiet",
+         "score": 2
+       }
+     ]
+   },
+   {
+     "id": "5",
+     "text": "Det fjernes for mange parkeringsplasser for å gi plass til sykkelveier",
+     "options": [
+       {
+         "text": "Enig",
+         "value": 2
+       },
+       {
+         "text": "Litt enig",
+         "value": 1
+       },
+       {
+         "text": "Litt uenig",
+         "value": -1
+       },
+       {
+         "text": "Uenig",
+         "value": -2
+       }
+     ],
+     "opinions": [
+       {
+         "party": "Frp",
+         "score": 2
+       },
+       {
+         "party": "Arbeiderpartiet",
+         "score": -2
+       }
+     ]
+   },
+   {
+     "id": "6",
+     "text": "Marianne Borgen bør være ordfører i Oslo",
+     "options": [
+       {
+   "text": "Enig",
+   "value": 2
+ },
+ {
+   "text": "Litt enig",
+   "value": 1
+ },
+ {
+   "text": "Litt uenig",
+   "value": -1
+ },
+ {
+   "text": "Uenig",
+   "value": -2
+ }
+     ],
+     "opinions": [
+       {
+         "party": "Frp",
+         "score": -2
+       },
+       {
+         "party": "Arbeiderpartiet",
+         "score": 2
+       }
+     ]
+   }
+ ]
+ 
